@@ -7,7 +7,7 @@ public class HelloWorld {
 		System.out.println("HelloWorld");
 		System.out.println("HelloWorld");
 		System.out.println("HelloWorld");
-		System.out.println("123");
+		System.out.println("123456");
 	}
 
 }
