@@ -8,6 +8,9 @@ public class HelloWorld {
 		System.out.println("HelloWorld");
 		System.out.println("HelloWorld");
 		System.out.println("123456");
+		for (int i = 0; i < 3; i++) {
+			System.out.println("HelloWorld");
+		}
 	}
 
 }
